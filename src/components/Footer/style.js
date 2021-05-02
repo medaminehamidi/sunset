@@ -31,20 +31,20 @@ export default {
     fontFamily: '\'Open Sans\', sans-serif !important',
     fontWeight: '300 !important',
     color: '#000 !important',
-    justifyContent: 'center',
+    justifyContent: 'start',
     display: 'flex',
     lineHeight: '35px !important',
-    textAlign: 'center'
+    textAlign: 'left'
   },
   smallTitle: {
     fontSize: '26px !important',
     fontFamily: '\'Open Sans\', sans-serif !important',
     fontWeight: '600 !important',
     color: '#000 !important',
-    justifyContent: 'center',
+    justifyContent: 'start',
     display: 'flex',
     lineHeight: '60px !important',
-    textAlign: 'center'
+    textAlign: 'left'
   },
   container: {
     display: 'flex',
@@ -55,7 +55,6 @@ export default {
   tab: {
     width: 200,
     display: 'flex',
-    alignItems: 'center',
     flexDirection: 'column',
     justifyContent: 'space-around'
   },
