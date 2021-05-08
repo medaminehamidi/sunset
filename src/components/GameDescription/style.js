@@ -2,7 +2,7 @@ export default {
   coffee: {
     marginTop: 50,
     height: '100%',
-    paddingTop: 45
+    paddingTop: 120
   },
   title: {
     fontSize: '34px !important',
@@ -15,7 +15,7 @@ export default {
     margin: '20px 0 !important'
   },
   para: {
-    fontSize: '26px !important',
+    fontSize: '16px !important',
     fontFamily: '\'Open Sans\', sans-serif !important',
     fontWeight: '300 !important',
     color: '#ececec !important',

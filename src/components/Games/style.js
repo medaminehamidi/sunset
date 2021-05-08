@@ -14,7 +14,7 @@ export default {
     margin: '20px 0 !important'
   },
   para: {
-    fontSize: '26px !important',
+    fontSize: '16px !important',
     fontFamily: '\'Open Sans\', sans-serif !important',
     fontWeight: '300 !important',
     color: '#2e4257 !important',

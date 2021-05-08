@@ -14,10 +14,10 @@ export default {
     justifyContent: 'center',
     display: 'flex',
     lineHeight: '45px !important',
-    margin: '20px 0 !important'
+    margin: '120px 0 20px 0 !important'
   },
   para: {
-    fontSize: '26px !important',
+    fontSize: '16px !important',
     fontFamily: '\'Open Sans\', sans-serif !important',
     fontWeight: '300 !important',
     color: '#000 !important',

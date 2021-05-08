@@ -53,7 +53,7 @@ export default {
     lineHeight: '31px !important'
   },
   bigOrange: {
-    fontSize: '34px !important',
+    fontSize: '42px !important',
     fontFamily: '\'Open Sans\', sans-serif !important',
     fontWeight: '600 !important',
     color: '#f2a365 !important',
@@ -62,7 +62,7 @@ export default {
     lineHeight: '45px !important'
   },
   bigWhite: {
-    fontSize: '34px !important',
+    fontSize: '42px !important',
     fontFamily: '\'Open Sans\', sans-serif !important',
     fontWeight: '600 !important',
     color: '#bebebe !important',
@@ -71,7 +71,7 @@ export default {
     lineHeight: '45px !important'
   },
   smallOrange: {
-    fontSize: '26px !important',
+    fontSize: '36px !important',
     fontFamily: '\'Open Sans\', sans-serif !important',
     fontWeight: '300 !important',
     color: '#f2a365 !important',
@@ -81,7 +81,7 @@ export default {
     lineHeight: '45px !important'
   },
   smallWhite: {
-    fontSize: '26px !important',
+    fontSize: '36px !important',
     fontFamily: '\'Open Sans\', sans-serif !important',
     fontWeight: '300 !important',
     color: '#bebebe !important',
