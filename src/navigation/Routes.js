@@ -7,6 +7,7 @@ import { useEffect } from 'react'
 import { history } from 'store'
 
 import Home from 'pages/Home'
+import Shop from 'pages/Shop'
 
 export default () => {
   useEffect(() => {
@@ -19,9 +20,13 @@ export default () => {
         <Route exact path={HomePath}>
           <Home />
         </Route>
+        <Route exact path={ShopPath}>
+          <Shop />
+        </Route>
       </Switch>
     </ConnectedRouter>
   )
 }
 
 export const HomePath = '/'
+export const ShopPath = '/shop'

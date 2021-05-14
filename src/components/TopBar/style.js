@@ -26,7 +26,10 @@ export default {
     justifyContent: 'center',
     display: 'flex',
     cursor: 'pointer',
-    lineHeight: '45px !important'
+    lineHeight: '45px !important',
+    '&:hover': {
+      borderBottom: '.5px solid #bebebe'
+    }
   },
   navSelected: {
     fontSize: '16px !important',
