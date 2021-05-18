@@ -21,6 +21,7 @@ export default {
   },
   productimage: {
     height: '100%',
+    margin: 16,
     width: '100%'
   },
   catalog: {
@@ -33,6 +34,7 @@ export default {
   },
   button: {
     color: '#fff !important',
+    fontWeight: 'bold !important',
     backgroundColor: '#f65c41 !important',
     marginTop: '-40px !important',
     marginBottom: '16px !important',
@@ -48,7 +50,10 @@ export default {
     color: '#000 !important',
     cursor: 'none',
     lineHeight: '45px !important',
-    textTransform: 'uppercase  !important'
+    width: 'max-content',
+    textTransform: 'uppercase  !important',
+    borderBottom: '.5px solid #f65c41',
+    paddingBottom: 18
   },
   name: {
     fontSize: '26px !important',
@@ -73,5 +78,9 @@ export default {
   },
   categorieContainer: {
     marginTop: 30
+  },
+  titleContainer: {
+    width: '100%',
+    borderBottom: '.1px solid #f65c41'
   }
 }
